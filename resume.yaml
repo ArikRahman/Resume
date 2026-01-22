@@ -19,11 +19,11 @@ cv:
         degree: Bachelor of Science
         start_date: 2021-08
         end_date: 2025-12
-        summary: "GPA: 3.05"
+        # summary: "GPA: 3.05"
         highlights:
           - "Minor in Cybersecurity, seeking Service for Scholarship (SFS)."
           - "CLDP cohort member (Senior Military College DoD Cyber Leader Development Program)."
-          - "VICEROY recipient (cybersecurity program directed by John Romero)."
+          - "VICEROY recipient (National cybersecurity program)."
 
     Experience:
       - company: TEES Cybersecurity Center
@@ -55,7 +55,14 @@ cv:
           - "Responsible for instruction of C++ to hundreds of computer science students."
           - "Checked students’ work and planned effective instruction."
 
-    Projects:
+      - name: "AI Integrated mmWave Weapon Scanner"
+        summary: "Matlab, TI mmWave Studio"
+        start_date: 2025-01
+        end_date: 2025-12
+        highlights:
+          - "Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors."
+          - "Synchronized a controls system with an ML-assisted heatmap generation framework."
+
       - name: "Title-Close"
         summary: ".NET, MySQL, Flutter, Dart"
         start_date: 2023-06
@@ -65,20 +72,12 @@ cv:
           - "Created a corresponding app via WebView and published to the App Store."
           - "Secured connection between gateway and the database."
 
-      - name: "Aggies Phantom Invent"
+      - name: "Phantom Invent"
         summary: "ITN Upgrade (CAD)"
         date: "2023-12"
         highlights:
           - "Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life."
           - "Worked alongside military professionals to deliver a winning product."
-
-      - name: "AI Integrated mmWave Weapon Scanner"
-        summary: "Matlab, TI mmWave Studio"
-        start_date: 2025-01
-        end_date: present
-        highlights:
-          - "Built a holistic security apparatus consisting of a gantry system and TI mmWave sensors."
-          - "Built a controls system and an ML-assisted heatmap generation framework."
 
     Activities & Societies:
       - name: "CLDP"
@@ -91,13 +90,13 @@ cv:
       - name: "DEEP"
         summary: "Discovery, Exploration, and Enjoyment of Physics"
         start_date: 2023-01
-        end_date: present
+        end_date: 2025-08
         highlights:
           - "Demonstrated spring oscillation without springs; learned CAD to design the physical demonstration."
           - "Replicated signal manipulation on NFC and sub-GHz spectrums and jammed Bluetooth communications."
 
     Technical Skills:
       - bullet: "**Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT."
-      - bullet: "**Certifications:** CompTIA Security+ SY0-701."
-      - bullet: "**Languages:** Matlab, Java, Python, C/C++, LaTeX, Svelte, Dart, Rust; English (SAT 760/800)."
-      - bullet: "**Dev Tools:** Notepad (IDE), Linux (Arch), Nextcloud homelab."
+      - bullet: "**Certifications:** [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)"
+      - bullet: "**Languages:** Matlab, Java/Clojure, Python, SQL, Org, Dart, Nix, Lisp; English (SAT 760/800)."
+      - bullet: "**Dev Tools:** Emacs, Linux (NixOS), Syncthing, Git."

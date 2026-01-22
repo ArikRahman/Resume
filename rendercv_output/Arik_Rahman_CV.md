@@ -143,7 +143,7 @@ Discovery, Exploration, and Enjoyment of Physics
 # Technical Skills
 - **Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT.
 
-- **Certifications:** CompTIA Security+ SY0-701.
+- **Certifications:** [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)
 
 - **Languages:** Matlab, Java, Python, C/C++, LaTeX, Svelte, Dart, Rust; English (SAT 760/800).
 
