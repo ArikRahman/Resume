@@ -15,8 +15,8 @@ cv:
   sections:
     Education:
       - institution: Texas A&M University
-        area: Electronic Systems Engineering Technology
-        degree: Bachelor of Science
+        area: College of Engineering - Electronic Systems Engineering Technology
+        # degree: BS
         start_date: 2021-08
         end_date: 2025-12
         # summary: "GPA: 3.05"
@@ -32,9 +32,9 @@ cv:
         start_date: 2022-06
         end_date: 2024-05
         highlights:
-          - "Orchestrated automated dynamic analysis in Xen virtualized operating systems."
+          - "Orchestrated automated dynamic analysis in Xen Orchestrated operating systems."
           - "Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range."
-          - "Collaborated with a team of 4 on GitHub using a Scrum workflow."
+          - "Collaborated with a small team on GitHub using a Scrum workflow."
           - "Processed thousands of malware samples for dynamic analysis."
 
       - company: Association of Former Students
@@ -55,7 +55,8 @@ cv:
           - "Responsible for instruction of C++ to hundreds of computer science students."
           - "Checked students’ work and planned effective instruction."
 
-      - name: "AI Integrated mmWave Weapon Scanner"
+      - company: "AI Integrated mmWave Weapon Scanner"
+        position: "Software Engineer"
         summary: "Matlab, TI mmWave Studio"
         start_date: 2025-01
         end_date: 2025-12
@@ -63,7 +64,8 @@ cv:
           - "Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors."
           - "Synchronized a controls system with an ML-assisted heatmap generation framework."
 
-      - name: "Title-Close"
+      - company: "Title-Close"
+        position: "Software Engineer"
         summary: ".NET, MySQL, Flutter, Dart"
         start_date: 2023-06
         end_date: 2023-08
@@ -72,9 +74,11 @@ cv:
           - "Created a corresponding app via WebView and published to the App Store."
           - "Secured connection between gateway and the database."
 
-      - name: "Phantom Invent"
+      - company: "Phantom Invent"
+        position: "Software Engineer"
         summary: "ITN Upgrade (CAD)"
-        date: "2023-12"
+        start_date: 2023-12
+        end_date: 2023-12
         highlights:
           - "Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life."
           - "Worked alongside military professionals to deliver a winning product."
@@ -97,6 +101,6 @@ cv:
 
     Technical Skills:
       - bullet: "**Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT."
-      - bullet: "**Certifications:** [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)"
+      - bullet: "**Certifications:** AWS Cloud-Practitioner CLF-C02, [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)"
       - bullet: "**Languages:** Matlab, Java/Clojure, Python, SQL, Org, Dart, Nix, Lisp; English (SAT 760/800)."
       - bullet: "**Dev Tools:** Emacs, Linux (NixOS), Syncthing, Git."

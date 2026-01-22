@@ -97,15 +97,13 @@
 
 #education-entry(
   [
-    #strong[Texas A&M University], Electronic Systems Engineering Technology
-
-    #summary[GPA: 3.05]
+    #strong[Texas A&M University], College of Engineering - Electronic Systems Engineering Technology
 
     - Minor in Cybersecurity, seeking Service for Scholarship (SFS).
 
     - CLDP cohort member (Senior Military College DoD Cyber Leader Development Program).
 
-    - VICEROY recipient (cybersecurity program directed by John Romero).
+    - VICEROY recipient (National cybersecurity program).
 
   ],
   [
@@ -113,7 +111,7 @@
 
   ],
   degree-column: [
-    #strong[Bachelor of Science]
+    
   ],
 )
 
@@ -123,11 +121,11 @@
   [
     #strong[TEES Cybersecurity Center], Research Assistant
 
-    - Orchestrated automated dynamic analysis in Xen virtualized operating systems.
+    - Orchestrated automated dynamic analysis in Xen Orchestrated operating systems.
 
     - Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range.
 
-    - Collaborated with a team of 4 on GitHub using a Scrum workflow.
+    - Collaborated with a small team on GitHub using a Scrum workflow.
 
     - Processed thousands of malware samples for dynamic analysis.
 
@@ -180,11 +178,28 @@
   ],
 )
 
-== Projects
+#regular-entry(
+  [
+    #strong[AI Integrated mmWave Weapon Scanner], Software Engineer
+
+    #summary[Matlab, TI mmWave Studio]
+
+    - Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors.
+
+    - Synchronized a controls system with an ML-assisted heatmap generation framework.
+
+  ],
+  [
+    Jan 2025 – Dec 2025
+
+    1 year
+
+  ],
+)
 
 #regular-entry(
   [
-    #strong[Title-Close]
+    #strong[Title-Close], Software Engineer
 
     #summary[.NET, MySQL, Flutter, Dart]
 
@@ -198,12 +213,14 @@
   [
     June 2023 – Aug 2023
 
+    3 months
+
   ],
 )
 
 #regular-entry(
   [
-    #strong[Aggies Phantom Invent]
+    #strong[Phantom Invent], Software Engineer
 
     #summary[ITN Upgrade (CAD)]
 
@@ -213,24 +230,9 @@
 
   ],
   [
-    Dec 2023
+    Dec 2023 – Dec 2023
 
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[AI Integrated mmWave Weapon Scanner]
-
-    #summary[Matlab, TI mmWave Studio]
-
-    - Built a holistic security apparatus consisting of a gantry system and TI mmWave sensors.
-
-    - Built a controls system and an ML-assisted heatmap generation framework.
-
-  ],
-  [
-    Jan 2025 – present
+    1 month
 
   ],
 )
@@ -266,7 +268,7 @@
 
   ],
   [
-    Jan 2023 – present
+    Jan 2023 – Aug 2025
 
   ],
 )
@@ -275,8 +277,8 @@
 
 - #strong[Coursework:] Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT.
 
-- #strong[Certifications:] #link("https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J")[CompTIA Security+ SY0-701]
+- #strong[Certifications:] AWS Cloud-Practitioner CLF-C02, #link("https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J")[CompTIA Security+ SY0-701]
 
-- #strong[Languages:] Matlab, Java, Python, C\/C++, LaTeX, Svelte, Dart, Rust; English (SAT 760\/800).
+- #strong[Languages:] Matlab, Java\/Clojure, Python, SQL, Org, Dart, Nix, Lisp; English (SAT 760\/800).
 
-- #strong[Dev Tools:] Notepad (IDE), Linux (Arch), Nextcloud homelab.
+- #strong[Dev Tools:] Emacs, Linux (NixOS), Syncthing, Git.
