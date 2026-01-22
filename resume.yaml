@@ -1,0 +1,103 @@
+# Save as: Arik_Rahman_CV.yaml
+# Build: rendercv render Arik_Rahman_CV.yaml
+
+cv:
+  name: Arik Rahman
+  phone: "+1 832-709-3931"
+  email: arik@tamu.edu
+
+  social_networks:
+    - network: LinkedIn
+      username: arikrahman
+    - network: GitHub
+      username: arikrahman
+
+  sections:
+    Education:
+      - institution: Texas A&M University
+        area: Electronic Systems Engineering Technology
+        degree: Bachelor of Science
+        start_date: 2021-08
+        end_date: 2025-12
+        summary: "GPA: 3.05"
+        highlights:
+          - "Minor in Cybersecurity, seeking Service for Scholarship (SFS)."
+          - "CLDP cohort member (Senior Military College DoD Cyber Leader Development Program)."
+          - "VICEROY recipient (cybersecurity program directed by John Romero)."
+
+    Experience:
+      - company: TEES Cybersecurity Center
+        position: Research Assistant
+        location: College Station, TX
+        start_date: 2022-06
+        end_date: 2024-05
+        highlights:
+          - "Orchestrated automated dynamic analysis in Xen virtualized operating systems."
+          - "Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range."
+          - "Collaborated with a team of 4 on GitHub using a Scrum workflow."
+          - "Processed thousands of malware samples for dynamic analysis."
+
+      - company: Association of Former Students
+        position: Aggie Network Ambassador
+        location: College Station, TX
+        start_date: 2022-08
+        end_date: 2023-01
+        highlights:
+          - "Developed soft skills such as rapport-building and effective communication."
+          - "Connected with hundreds of former students."
+
+      - company: Texas A&M Dept. of Computer Science & Engineering
+        position: Teaching Assistant
+        location: College Station, TX
+        start_date: 2023-09
+        end_date: 2023-12
+        highlights:
+          - "Responsible for instruction of C++ to hundreds of computer science students."
+          - "Checked students’ work and planned effective instruction."
+
+    Projects:
+      - name: "Title-Close"
+        summary: ".NET, MySQL, Flutter, Dart"
+        start_date: 2023-06
+        end_date: 2023-08
+        highlights:
+          - "Created a responsive website for a title closing company."
+          - "Created a corresponding app via WebView and published to the App Store."
+          - "Secured connection between gateway and the database."
+
+      - name: "Aggies Phantom Invent"
+        summary: "ITN Upgrade (CAD)"
+        date: "2023-12"
+        highlights:
+          - "Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life."
+          - "Worked alongside military professionals to deliver a winning product."
+
+      - name: "AI Integrated mmWave Weapon Scanner"
+        summary: "Matlab, TI mmWave Studio"
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - "Built a holistic security apparatus consisting of a gantry system and TI mmWave sensors."
+          - "Built a controls system and an ML-assisted heatmap generation framework."
+
+    Activities & Societies:
+      - name: "CLDP"
+        summary: "Cyber Leader Development Program"
+        date: "Sept 2023 - Fall 2024"
+        highlights:
+          - "Selected for a limited cohort of 20 to pursue cybersecurity initiatives (for example DEFCON, Security+)."
+          - "Pursued DoD-8570 certifications and coursework to prepare for federal placement."
+
+      - name: "DEEP"
+        summary: "Discovery, Exploration, and Enjoyment of Physics"
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - "Demonstrated spring oscillation without springs; learned CAD to design the physical demonstration."
+          - "Replicated signal manipulation on NFC and sub-GHz spectrums and jammed Bluetooth communications."
+
+    Technical Skills:
+      - bullet: "**Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT."
+      - bullet: "**Certifications:** CompTIA Security+ SY0-701."
+      - bullet: "**Languages:** Matlab, Java, Python, C/C++, LaTeX, Svelte, Dart, Rust; English (SAT 760/800)."
+      - bullet: "**Dev Tools:** Notepad (IDE), Linux (Arch), Nextcloud homelab."
