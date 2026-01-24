@@ -1,6 +1,10 @@
 # Save as: Arik_Rahman_CV.yaml
 # Build: rendercv render Arik_Rahman_CV.yaml
 
+design:
+  # theme: engineeringresumes
+  theme: moderncv
+# The built-in design.theme values are: classic (default), engineeringclassic, engineeringresumes, moderncv, and sb2nov.
 cv:
   name: Arik Rahman
   phone: "+1 832-709-3931"
@@ -26,8 +30,27 @@ cv:
           - "VICEROY recipient (National cybersecurity program)."
 
     Experience:
+      - company: "AI Integrated mmWave Weapon Scanner"
+        position: "Software Engineer"
+        summary: "Matlab, TI mmWave Studio"
+        start_date: 2025-01
+        end_date: 2025-12
+        highlights:
+          - "Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors."
+          - "Synchronized a controls system with an ML-assisted heatmap generation framework."
+
+      - company: "Title-Close"
+        position: "Software Engineer"
+        summary: ".NET, MySQL, Flutter, Dart"
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - "Created a responsive website for a title closing company."
+          - "Created a corresponding app via WebView and published to the App Store."
+          - "Secured connection between gateway and the database."
+
       - company: TEES Cybersecurity Center
-        position: Research Assistant
+        position: Threat Analyst
         location: College Station, TX
         start_date: 2022-06
         end_date: 2024-05
@@ -54,25 +77,6 @@ cv:
         highlights:
           - "Responsible for instruction of C++ to hundreds of computer science students."
           - "Checked students’ work and planned effective instruction."
-
-      - company: "AI Integrated mmWave Weapon Scanner"
-        position: "Software Engineer"
-        summary: "Matlab, TI mmWave Studio"
-        start_date: 2025-01
-        end_date: 2025-12
-        highlights:
-          - "Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors."
-          - "Synchronized a controls system with an ML-assisted heatmap generation framework."
-
-      - company: "Title-Close"
-        position: "Software Engineer"
-        summary: ".NET, MySQL, Flutter, Dart"
-        start_date: 2023-06
-        end_date: 2023-08
-        highlights:
-          - "Created a responsive website for a title closing company."
-          - "Created a corresponding app via WebView and published to the App Store."
-          - "Secured connection between gateway and the database."
 
       - company: "Phantom Invent"
         position: "Software Engineer"

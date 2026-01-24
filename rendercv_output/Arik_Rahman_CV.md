@@ -7,11 +7,7 @@
 
 
 # Education
-## **Texas A&M University**, College of Engineering - Electronic Systems Engineering Technology
-
-
-
-Aug 2021 – Dec 2025
+## **Texas A&M University**,  in College of Engineering - Electronic Systems Engineering TechnologyAug 2021 – Dec 2025
 
 - Minor in Cybersecurity, seeking Service for Scholarship (SFS).
 
@@ -22,65 +18,9 @@ Aug 2021 – Dec 2025
 
 
 # Experience
-## **TEES Cybersecurity Center**, Research Assistant
-
-College Station, TX
-
-June 2022 – May 2024
-
-
-
-2 years
-
-- Orchestrated automated dynamic analysis in Xen Orchestrated operating systems.
-
-- Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range.
-
-- Collaborated with a small team on GitHub using a Scrum workflow.
-
-- Processed thousands of malware samples for dynamic analysis.
-
-
-
-## **Association of Former Students**, Aggie Network Ambassador
-
-College Station, TX
-
-Aug 2022 – Jan 2023
-
-
-
-6 months
-
-- Developed soft skills such as rapport-building and effective communication.
-
-- Connected with hundreds of former students.
-
-
-
-## **Texas A&M Dept. of Computer Science & Engineering**, Teaching Assistant
-
-College Station, TX
-
-Sept 2023 – Dec 2023
-
-
-
-4 months
-
-- Responsible for instruction of C++ to hundreds of computer science students.
-
-- Checked students’ work and planned effective instruction.
-
-
-
-## **AI Integrated mmWave Weapon Scanner**, Software Engineer
+## **Software Engineer**, AI Integrated mmWave Weapon Scanner
 
 Jan 2025 – Dec 2025
-
-
-
-1 year
 
 Matlab, TI mmWave Studio
 
@@ -90,13 +30,9 @@ Matlab, TI mmWave Studio
 
 
 
-## **Title-Close**, Software Engineer
+## **Software Engineer**, Title-Close
 
-June 2023 – Aug 2023
-
-
-
-3 months
+June 2024 – Aug 2024
 
 .NET, MySQL, Flutter, Dart
 
@@ -108,13 +44,43 @@ June 2023 – Aug 2023
 
 
 
-## **Phantom Invent**, Software Engineer
+## **Threat Analyst**, TEES Cybersecurity Center -- College Station, TX
+
+June 2022 – May 2024
+
+- Orchestrated automated dynamic analysis in Xen Orchestrated operating systems.
+
+- Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range.
+
+- Collaborated with a small team on GitHub using a Scrum workflow.
+
+- Processed thousands of malware samples for dynamic analysis.
+
+
+
+## **Aggie Network Ambassador**, Association of Former Students -- College Station, TX
+
+Aug 2022 – Jan 2023
+
+- Developed soft skills such as rapport-building and effective communication.
+
+- Connected with hundreds of former students.
+
+
+
+## **Teaching Assistant**, Texas A&M Dept. of Computer Science & Engineering -- College Station, TX
+
+Sept 2023 – Dec 2023
+
+- Responsible for instruction of C++ to hundreds of computer science students.
+
+- Checked students’ work and planned effective instruction.
+
+
+
+## **Software Engineer**, Phantom Invent
 
 Dec 2023 – Dec 2023
-
-
-
-1 month
 
 ITN Upgrade (CAD)
 
