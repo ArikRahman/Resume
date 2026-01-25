@@ -20,7 +20,7 @@ cv:
     Education:
       - institution: Texas A&M University
         area: College of Engineering - Electronic Systems Engineering Technology
-        # degree: BS
+        degree: Bachelor's of Science
         start_date: 2021-08
         end_date: 2025-12
         # summary: "GPA: 3.05"
@@ -60,15 +60,6 @@ cv:
           - "Collaborated with a small team on GitHub using a Scrum workflow."
           - "Processed thousands of malware samples for dynamic analysis."
 
-      - company: Association of Former Students
-        position: Aggie Network Ambassador
-        location: College Station, TX
-        start_date: 2022-08
-        end_date: 2023-01
-        highlights:
-          - "Developed soft skills such as rapport-building and effective communication."
-          - "Connected with hundreds of former students."
-
       - company: Texas A&M Dept. of Computer Science & Engineering
         position: Teaching Assistant
         location: College Station, TX
@@ -79,13 +70,42 @@ cv:
           - "Checked students’ work and planned effective instruction."
 
       - company: "Phantom Invent"
-        position: "Software Engineer"
-        summary: "ITN Upgrade (CAD)"
+        position: "Product Design Lead"
+        summary: "United States Armored Corps ITN Upgrade"
         start_date: 2023-12
-        end_date: 2023-12
+        end_date: 2024-01
         highlights:
           - "Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life."
           - "Worked alongside military professionals to deliver a winning product."
+
+      - company: Association of Former Students
+        position: Aggie Network Ambassador
+        location: College Station, TX
+        start_date: 2022-08
+        end_date: 2023-01
+        highlights:
+          - "Developed soft skills such as rapport-building and effective communication."
+          - "Connected with hundreds of former students."
+
+    Projects:
+      - name: "Nixwig (Bitwig Studio for NixOS)"
+        date: "2025-01 - Present"
+        highlights:
+          - "Maintainer of [Nixwig](https://github.com/ArikRahman/Nixwig), a flake-based configuration enabling Bitwig 6 beta compatibility on NixOS."
+          - "Patched proprietary dependencies and configured Nix derivations to ensure stable audio engine performance."
+          - "Resolved dynamic linking and windowing GUI issues for VST plugins in a pure Nix environment with flakes"
+
+      - name: "Dorion NixOS Maintainer"
+        date: "2025-01 - Present"
+        highlights:
+          - "NixOS upstream package maintainer for [Dorion](https://github.com/SpikeHD/Dorion"
+          - "Maintainer for the popular Rust based Discord refactor"
+
+      - name: "Godot Nim Maintainer"
+        date: "2024-08 - Present"
+        highlights:
+          - "Community Maintainer for [gdext-nim](https://github.com/godot-nim/gdext-nim), the Nim GDExtension library for Godot 4."
+          - "Maintained the community forums and contributed landing page documentation updates"
 
     Activities & Societies:
       - name: "CLDP"
@@ -106,5 +126,5 @@ cv:
     Technical Skills:
       - bullet: "**Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT."
       - bullet: "**Certifications:** AWS Cloud-Practitioner CLF-C02, [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)"
-      - bullet: "**Languages:** Matlab, Java/Clojure, Python, SQL, Org, Dart, Nix, Lisp; English (SAT 760/800)."
-      - bullet: "**Dev Tools:** Emacs, Linux (NixOS), Syncthing, Git."
+      - bullet: "**Languages:** Matlab, Java/Clojure, Python, SQL, Dart, Nix, Lisp; English (SAT 760/800)."
+      - bullet: "**Dev Tools:** Emacs, Linux (NixOS), Git, Zsh"

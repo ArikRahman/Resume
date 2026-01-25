@@ -97,7 +97,7 @@
 
 #education-entry(
   [
-    #strong[Texas A&M University],  in College of Engineering - Electronic Systems Engineering Technology
+    #strong[Texas A&M University], Bachelor's of Science in College of Engineering - Electronic Systems Engineering Technology
 
   ],
   [
@@ -179,23 +179,6 @@
 
 #regular-entry(
   [
-    #strong[Aggie Network Ambassador], Association of Former Students -- College Station, TX
-
-  ],
-  [
-    Aug 2022 – Jan 2023
-
-  ],
-  main-column-second-row: [
-    - Developed soft skills such as rapport-building and effective communication.
-
-    - Connected with hundreds of former students.
-
-  ],
-)
-
-#regular-entry(
-  [
     #strong[Teaching Assistant], Texas A&M Dept. of Computer Science & Engineering -- College Station, TX
 
   ],
@@ -213,19 +196,91 @@
 
 #regular-entry(
   [
-    #strong[Software Engineer], Phantom Invent
+    #strong[Product Design Lead], Phantom Invent
 
   ],
   [
-    Dec 2023 – Dec 2023
+    Dec 2023 – Jan 2024
 
   ],
   main-column-second-row: [
-    #summary[ITN Upgrade (CAD)]
+    #summary[United States Armored Corps ITN Upgrade]
 
     - Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life.
 
     - Worked alongside military professionals to deliver a winning product.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Aggie Network Ambassador], Association of Former Students -- College Station, TX
+
+  ],
+  [
+    Aug 2022 – Jan 2023
+
+  ],
+  main-column-second-row: [
+    - Developed soft skills such as rapport-building and effective communication.
+
+    - Connected with hundreds of former students.
+
+  ],
+)
+
+== Projects
+
+#regular-entry(
+  [
+    #strong[Nixwig (Bitwig Studio for NixOS)]
+
+  ],
+  [
+    2025-01 - Present
+
+  ],
+  main-column-second-row: [
+    - Maintainer of #link("https://github.com/ArikRahman/Nixwig")[Nixwig], a flake-based configuration enabling Bitwig 6 beta compatibility on NixOS.
+
+    - Patched proprietary dependencies and configured Nix derivations to ensure stable audio engine performance.
+
+    - Resolved dynamic linking and windowing GUI issues for VST plugins in a pure Nix environment with flakes
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Dorion NixOS Maintainer]
+
+  ],
+  [
+    2025-01 - Present
+
+  ],
+  main-column-second-row: [
+    - NixOS upstream package maintainer for \[Dorion\](https:\/\/github.com\/SpikeHD\/Dorion
+
+    - Maintainer for the popular Rust based Discord refactor
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Godot Nim Maintainer]
+
+  ],
+  [
+    2024-08 - Present
+
+  ],
+  main-column-second-row: [
+    - Community Maintainer for #link("https://github.com/godot-nim/gdext-nim")[gdext-nim], the Nim GDExtension library for Godot 4.
+
+    - Maintained the community forums and contributed landing page documentation updates
 
   ],
 )
@@ -276,6 +331,6 @@
 
 - #strong[Certifications:] AWS Cloud-Practitioner CLF-C02, #link("https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J")[CompTIA Security+ SY0-701]
 
-- #strong[Languages:] Matlab, Java\/Clojure, Python, SQL, Org, Dart, Nix, Lisp; English (SAT 760\/800).
+- #strong[Languages:] Matlab, Java\/Clojure, Python, SQL, Dart, Nix, Lisp; English (SAT 760\/800).
 
-- #strong[Dev Tools:] Emacs, Linux (NixOS), Syncthing, Git.
+- #strong[Dev Tools:] Emacs, Linux (NixOS), Git, Zsh
