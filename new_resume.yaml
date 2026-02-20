@@ -1,0 +1,84 @@
+# Save as: Arik_Rahman_CV.yaml
+# Build: rendercv render Arik_Rahman_CV.yaml
+# Note: Formatted for RenderCV utilizing the moderncv theme. Dates are set to YYYY-MM.
+# Render with rendercv render new_resume.yaml
+
+# The built-in design.theme values are: classic (default), engineeringclassic, engineeringresumes, moderncv, and sb2nov.
+design:
+  theme: engineeringresumes
+
+cv:
+  name: Arik Rahman
+  phone: "+1 832-709-3931"
+  email: arikrahman300@gmail.com
+
+  social_networks:
+    - network: LinkedIn
+      username: arikrahman
+    - network: GitHub
+      username: arikrahman
+
+  sections:
+    Summary:
+      - "Detail-oriented Business System Analyst/Business Analyst with extensive experience across Agile, Hybrid, and Waterfall SDLC environments. Proven expertise in requirements elicitation, system analysis, cybersecurity compliance, QA, CMMI, GDP, and change management. Skilled in translating complex business needs into clear functional and technical specifications, user stories, and process models. Strong collaborator with cross-functional teams, ensuring traceability, regulatory compliance, and successful delivery of scalable, high-quality solutions."
+
+    Education:
+      - institution: Texas A&M University
+        area: College of Engineering - Electronic Systems Engineering Technology
+        degree: Bachelor's of Science
+        # start_date: 2021-08
+        # end_date: 2025-12
+        highlights:
+          - "Minor in Cybersecurity"
+
+    Experience:
+      - company: "NTT Data"
+        position: "Business System Analyst"
+        location: "Washington, DC"
+        start_date: 2024-05
+        end_date: present
+        highlights:
+          - "Partner directly with business stakeholders, Product Owners, SMEs, and end-users to elicit, analyze, and document detailed functional and technical requirements, ensuring alignment with strategic business objectives."
+          - "Facilitate requirement workshops, backlog refinement, sprint planning, and sprint review sessions; actively validate delivered functionality against acceptance criteria and business expectations."
+          - "Decompose complex epics into well-defined, testable user stories with clear acceptance criteria, maintaining end-to-end traceability through Requirements Traceability Matrix (RTM)."
+          - "Develop comprehensive documentation including BRDs, Functional Specifications, Use Cases, Activity Diagrams, and Business Process Flow diagrams (AS-IS / TO-BE) to support system enhancements and integrations."
+          - "Perform hands-on backlog management in Jira by creating and refining user stories, managing priorities, tracking sprint progress, logging and triaging defects, and ensuring transparency across cross-functional teams."
+          - "Lead stakeholder demos and product walkthroughs, gather structured feedback, identify gaps, and proactively recommend enhancements to align the product roadmap with evolving business needs."
+          - "Collaborate closely with Development and QA teams to clarify requirements, review Test Plans and Test Cases, support UAT coordination, and participate in functional and regression testing as needed."
+          - "Ensure all deliverables comply with SDLC governance, cybersecurity standards, regulatory requirements, and audit readiness protocols, proactively identifying risks and driving mitigation strategies."
+          - "Act as a liaison between business and technical teams, resolving ambiguities, managing scope changes, and ensuring seamless communication throughout the project lifecycle."
+
+      - company: "Wells Fargo"
+        position: "IT Business Analyst"
+        start_date: 2021-09
+        end_date: 2024-05
+        highlights:
+          - "Facilitated stakeholder meetings and JAD (Joint Application Development) sessions to capture high-level requirements and resolve outstanding issues throughout the SDLC."
+          - "Gathered, defined, and documented business and functional requirements by evaluating existing systems, identifying gaps, analyzing stakeholder inputs, and translating them into clear, precise, bounded specifications aligned with project goals."
+          - "Created detailed Technical Requirements Documents and collaborated with cross-functional teams to ensure alignment with business objectives."
+          - "Partnered with business users and development teams to assess current workflows, identify improvement opportunities, and implement optimized solutions."
+          - "Developed business process models and workflow diagrams to illustrate system logic and functional requirements."
+          - "Translated customer needs into clear, actionable business requirements and ensured traceability throughout the development lifecycle."
+          - "Logged and tracked defects/issues, obtained required sign-offs, and ensured all artifacts complied with corporate SDLC standards and CMMI guidelines."
+          - "Performed SQL queries for backend data validation and supported end-to-end testing activities."
+          - "Designed and executed test scenarios and use cases derived from business and technical requirements to ensure full test coverage."
+          - "Collaborated with QA teams to create comprehensive test plans and test cases for functional, integration, and UAT testing."
+          - "Participated in weekly status meetings with project stakeholders, prepared meeting notes, and tracked action items."
+
+      - company: "TEES Cybersecurity Center"
+        position: "Threat Analyst"
+        location: "College Station, TX"
+        start_date: 2020-01
+        end_date: 2021-09
+        highlights:
+          - "Orchestrated automated dynamic analysis in Xen Orchestrated operating systems."
+          - "Developed in-house scientific gateway with public-facing API."
+          - "Collaborated with a small team on GitHub using a Scrum workflow."
+          - "Processed thousands of malware samples for dynamic analysis."
+
+    Technical Skills:
+      - bullet: "**Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, GAP analysis, Peer Reviews."
+      - bullet: "**Tools:** Atlassian toolsets JIRA, Confluence."
+      - bullet: "**Cloud:** Cloud features and AWS platform."
+      - bullet: "**Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliances."
+      - bullet: "**Certifications:** AWS Cloud-Practitioner, CompTIA Security+."

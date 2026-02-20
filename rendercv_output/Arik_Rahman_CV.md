@@ -1,56 +1,79 @@
 # Arik Rahman's CV
 
 - Phone: +1 832 709 3931
-- Email: [arik@tamu.edu](mailto:arik@tamu.edu)
+- Email: [arikrahman300@gmail.com](mailto:arikrahman300@gmail.com)
 - LinkedIn: [arikrahman](https://linkedin.com/in/arikrahman)
 - GitHub: [arikrahman](https://github.com/arikrahman)
 
 
+# Summary
+Detail-oriented Business System Analyst/Business Analyst with extensive experience across Agile, Hybrid, and Waterfall SDLC environments. Proven expertise in requirements elicitation, system analysis, cybersecurity compliance, QA, CMMI, GDP, and change management. Skilled in translating complex business needs into clear functional and technical specifications, user stories, and process models. Strong collaborator with cross-functional teams, ensuring traceability, regulatory compliance, and successful delivery of scalable, high-quality solutions.
+
 # Education
-## **Texas A&M University**, Bachelor's of Science in College of Engineering - Electronic Systems Engineering TechnologyAug 2021 – Dec 2025
-
-- Minor in Cybersecurity, seeking Service for Scholarship (SFS).
-
-- CLDP cohort member (Senior Military College DoD Cyber Leader Development Program).
-
-- VICEROY recipient (National cybersecurity program).
+## **Texas A&M University**, Bachelor's of Science in College of Engineering - Electronic Systems Engineering Technology- Minor in Cybersecurity
 
 
 
 # Experience
-## **Software Engineer**, AI Integrated mmWave Weapon Scanner
+## **Business System Analyst**, NTT Data -- Washington, DC
 
-Jan 2025 – Dec 2025
+May 2024 – present
 
-Matlab, TI mmWave Studio
+- Partner directly with business stakeholders, Product Owners, SMEs, and end-users to elicit, analyze, and document detailed functional and technical requirements, ensuring alignment with strategic business objectives.
 
-- Built a holistic security apparatus consisting of a gantry system and proprietary TI mmWave sensors.
+- Facilitate requirement workshops, backlog refinement, sprint planning, and sprint review sessions; actively validate delivered functionality against acceptance criteria and business expectations.
 
-- Synchronized a controls system with an ML-assisted heatmap generation framework.
+- Decompose complex epics into well-defined, testable user stories with clear acceptance criteria, maintaining end-to-end traceability through Requirements Traceability Matrix (RTM).
+
+- Develop comprehensive documentation including BRDs, Functional Specifications, Use Cases, Activity Diagrams, and Business Process Flow diagrams (AS-IS / TO-BE) to support system enhancements and integrations.
+
+- Perform hands-on backlog management in Jira by creating and refining user stories, managing priorities, tracking sprint progress, logging and triaging defects, and ensuring transparency across cross-functional teams.
+
+- Lead stakeholder demos and product walkthroughs, gather structured feedback, identify gaps, and proactively recommend enhancements to align the product roadmap with evolving business needs.
+
+- Collaborate closely with Development and QA teams to clarify requirements, review Test Plans and Test Cases, support UAT coordination, and participate in functional and regression testing as needed.
+
+- Ensure all deliverables comply with SDLC governance, cybersecurity standards, regulatory requirements, and audit readiness protocols, proactively identifying risks and driving mitigation strategies.
+
+- Act as a liaison between business and technical teams, resolving ambiguities, managing scope changes, and ensuring seamless communication throughout the project lifecycle.
 
 
 
-## **Software Engineer**, Title-Close
+## **IT Business Analyst**, Wells Fargo
 
-June 2024 – Aug 2024
+Sept 2021 – May 2024
 
-.NET, MySQL, Flutter, Dart
+- Facilitated stakeholder meetings and JAD (Joint Application Development) sessions to capture high-level requirements and resolve outstanding issues throughout the SDLC.
 
-- Created a responsive website for a title closing company.
+- Gathered, defined, and documented business and functional requirements by evaluating existing systems, identifying gaps, analyzing stakeholder inputs, and translating them into clear, precise, bounded specifications aligned with project goals.
 
-- Created a corresponding app via WebView and published to the App Store.
+- Created detailed Technical Requirements Documents and collaborated with cross-functional teams to ensure alignment with business objectives.
 
-- Secured connection between gateway and the database.
+- Partnered with business users and development teams to assess current workflows, identify improvement opportunities, and implement optimized solutions.
+
+- Developed business process models and workflow diagrams to illustrate system logic and functional requirements.
+
+- Translated customer needs into clear, actionable business requirements and ensured traceability throughout the development lifecycle.
+
+- Logged and tracked defects/issues, obtained required sign-offs, and ensured all artifacts complied with corporate SDLC standards and CMMI guidelines.
+
+- Performed SQL queries for backend data validation and supported end-to-end testing activities.
+
+- Designed and executed test scenarios and use cases derived from business and technical requirements to ensure full test coverage.
+
+- Collaborated with QA teams to create comprehensive test plans and test cases for functional, integration, and UAT testing.
+
+- Participated in weekly status meetings with project stakeholders, prepared meeting notes, and tracked action items.
 
 
 
 ## **Threat Analyst**, TEES Cybersecurity Center -- College Station, TX
 
-June 2022 – May 2024
+Jan 2020 – Sept 2021
 
 - Orchestrated automated dynamic analysis in Xen Orchestrated operating systems.
 
-- Developed in-house scientific gateway with public-facing API hosted at the Texas A&M Cyber Range.
+- Developed in-house scientific gateway with public-facing API.
 
 - Collaborated with a small team on GitHub using a Scrum workflow.
 
@@ -58,101 +81,13 @@ June 2022 – May 2024
 
 
 
-## **Teaching Assistant**, Texas A&M Dept. of Computer Science & Engineering -- College Station, TX
-
-Sept 2023 – Dec 2023
-
-- Responsible for instruction of C++ to hundreds of computer science students.
-
-- Checked students’ work and planned effective instruction.
-
-
-
-## **Product Design Lead**, Phantom Invent
-
-Dec 2023 – Jan 2024
-
-United States Armored Corps ITN Upgrade
-
-- Addressed high power draw from an integrated tactical network (ITN) reducing armored corps battery life.
-
-- Worked alongside military professionals to deliver a winning product.
-
-
-
-## **Aggie Network Ambassador**, Association of Former Students -- College Station, TX
-
-Aug 2022 – Jan 2023
-
-- Developed soft skills such as rapport-building and effective communication.
-
-- Connected with hundreds of former students.
-
-
-
-# Projects
-## **Nixwig (Bitwig Studio for NixOS)**
-
-2025-01 - Present
-
-- Maintainer of [Nixwig](https://github.com/ArikRahman/Nixwig), a flake-based configuration enabling Bitwig 6 beta compatibility on NixOS.
-
-- Patched proprietary dependencies and configured Nix derivations to ensure stable audio engine performance.
-
-- Resolved dynamic linking and windowing GUI issues for VST plugins in a pure Nix environment with flakes
-
-
-
-## **Dorion NixOS Maintainer**
-
-2025-01 - Present
-
-- NixOS upstream package maintainer for [Dorion](https://github.com/SpikeHD/Dorion
-
-- Maintainer for the popular Rust based Discord refactor
-
-
-
-## **Godot Nim Maintainer**
-
-2024-08 - Present
-
-- Community Maintainer for [gdext-nim](https://github.com/godot-nim/gdext-nim), the Nim GDExtension library for Godot 4.
-
-- Maintained the community forums and contributed landing page documentation updates
-
-
-
-# Activities & Societies
-## **CLDP**
-
-Sept 2023 - Fall 2024
-
-Cyber Leader Development Program
-
-- Selected for a limited cohort of 20 to pursue cybersecurity initiatives (for example DEFCON, Security+).
-
-- Pursued DoD-8570 certifications and coursework to prepare for federal placement.
-
-
-
-## **DEEP**
-
-Jan 2023 – Aug 2025
-
-Discovery, Exploration, and Enjoyment of Physics
-
-- Demonstrated spring oscillation without springs; learned CAD to design the physical demonstration.
-
-- Replicated signal manipulation on NFC and sub-GHz spectrums and jammed Bluetooth communications.
-
-
-
 # Technical Skills
-- **Coursework:** Data Structures and Algorithms, Electromagnetics in High Frequency Systems, Advanced Network Systems and Security, Control Systems, IoT.
+- **Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, GAP analysis, Peer Reviews.
 
-- **Certifications:** AWS Cloud-Practitioner CLF-C02, [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)
+- **Tools:** Atlassian toolsets JIRA, Confluence.
 
-- **Languages:** Matlab, Java/Clojure, Python, SQL, Dart, Nix, Lisp; English (SAT 760/800).
+- **Cloud:** Cloud features and AWS platform.
 
-- **Dev Tools:** Emacs, Linux (NixOS), Git, Zsh
+- **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliances.
+
+- **Certifications:** AWS Cloud-Practitioner, CompTIA Security+.
