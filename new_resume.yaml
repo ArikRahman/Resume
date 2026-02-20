@@ -34,7 +34,7 @@ cv:
     Experience:
       - company: "NTT Data"
         position: "Business System Analyst"
-        location: "Washington, DC"
+        location: "Plano, TX"
         start_date: 2024-05
         end_date: present
         highlights:
@@ -50,6 +50,7 @@ cv:
 
       - company: "Wells Fargo"
         position: "IT Business Analyst"
+        location: "Irving, TX"
         start_date: 2021-09
         end_date: 2024-05
         highlights:
