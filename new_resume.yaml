@@ -25,12 +25,13 @@ cv:
     Education:
       - institution: Texas A&M University
         location: "College Station, TX"
-        area: the College of Engineering - Electronic Systems Engineering Technology
+        area: the College of Engineering
         degree: Bachelor's of Science
 
         # start_date: 2021-08
         # end_date: 2025-12
         highlights:
+          - "Area of emphasis in Electronic Systems Engineering Technology"
           - "Minor in Cybersecurity"
 
     Experience:

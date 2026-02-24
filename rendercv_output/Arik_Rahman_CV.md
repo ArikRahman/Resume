@@ -12,7 +12,9 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 # Education
 ## **Texas A&M University***College Station, TX*
 
-*Bachelor's of Science* *in* *the College of Engineering - Electronic Systems Engineering Technology*
+*Bachelor's of Science* *in* *the College of Engineering*
+
+- Area of emphasis in Electronic Systems Engineering Technology
 
 - Minor in Cybersecurity
 
