@@ -14,7 +14,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 *Bachelor's of Science* *in* *the College of Engineering*
 
-- Area of emphasis in Electronic Systems Engineering Technology
+- Area of Emphasis in Electronic Systems Engineering Technology
 
 - Minor in Cybersecurity
 
