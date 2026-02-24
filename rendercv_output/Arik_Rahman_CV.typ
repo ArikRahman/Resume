@@ -116,7 +116,7 @@ Detail-oriented Business System Analyst\/Business Analyst with extensive experie
 
 #regular-entry(
   [
-    #strong[Business System Analyst], NTT Data -- Washington, DC
+    #strong[Business System Analyst], NTT Data -- Plano, TX
 
   ],
   [
@@ -147,7 +147,7 @@ Detail-oriented Business System Analyst\/Business Analyst with extensive experie
 
 #regular-entry(
   [
-    #strong[IT Business Analyst], Wells Fargo
+    #strong[IT Business Analyst], Wells Fargo -- Irving, TX
 
   ],
   [
@@ -203,12 +203,12 @@ Detail-oriented Business System Analyst\/Business Analyst with extensive experie
 
 == Technical Skills
 
-- #strong[Methodologies:] Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, GAP analysis, Peer Reviews.
+- #strong[Methodologies:] Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
 
 - #strong[Tools:] Atlassian toolsets JIRA, Confluence.
 
 - #strong[Cloud:] Cloud features and AWS platform.
 
-- #strong[Compliance:] HIPAA, GDP, CMMI, Cyber Security Compliances.
+- #strong[Compliance:] HIPAA, GDP, CMMI, Cyber Security Compliance.
 
-- #strong[Certifications:] AWS Cloud-Practitioner, CompTIA Security+.
+- #strong[#link("https://www.credly.com/users/arik-rahman/badges#credly")[Certifications]:] Lean Six Sigma Yellow Belt, #link("https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url")[AWS Cloud-Practitioner], #link("https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J")[CompTIA Security+ SY0-701].

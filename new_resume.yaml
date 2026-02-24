@@ -36,7 +36,7 @@ cv:
         position: "Business System Analyst"
         location: "Plano, TX"
         start_date: 2024-05
-        end_date: present
+        end_date: Present
         highlights:
           - "Partner directly with business stakeholders, Product Owners, SMEs, and end-users to elicit, analyze, and document detailed functional and technical requirements, ensuring alignment with strategic business objectives."
           - "Facilitate requirement workshops, backlog refinement, sprint planning, and sprint review sessions; actively validate delivered functionality against acceptance criteria and business expectations."
@@ -47,6 +47,12 @@ cv:
           - "Collaborate closely with Development and QA teams to clarify requirements, review Test Plans and Test Cases, support UAT coordination, and participate in functional and regression testing as needed."
           - "Ensure all deliverables comply with SDLC governance, cybersecurity standards, regulatory requirements, and audit readiness protocols, proactively identifying risks and driving mitigation strategies."
           - "Act as a liaison between business and technical teams, resolving ambiguities, managing scope changes, and ensuring seamless communication throughout the project lifecycle."
+    Technical Skills:
+      - bullet: "**Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews."
+      - bullet: "**Tools:** Atlassian toolsets JIRA, Confluence."
+      - bullet: "**Cloud:** Cloud features and AWS platform."
+      - bullet: "**Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance."
+      - bullet: "**[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)."
 
       - company: "Wells Fargo"
         position: "IT Business Analyst"
@@ -76,10 +82,3 @@ cv:
           - "Developed in-house scientific gateway with public-facing API."
           - "Collaborated with a small team on GitHub using a Scrum workflow."
           - "Processed thousands of malware samples for dynamic analysis."
-
-    Technical Skills:
-      - bullet: "**Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, GAP analysis, Peer Reviews."
-      - bullet: "**Tools:** Atlassian toolsets JIRA, Confluence."
-      - bullet: "**Cloud:** Cloud features and AWS platform."
-      - bullet: "**Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliances."
-      - bullet: "**Certifications:** AWS Cloud-Practitioner, CompTIA Security+."

@@ -15,7 +15,7 @@ Detail-oriented Business System Analyst/Business Analyst with extensive experien
 
 
 # Experience
-## **Business System Analyst**, NTT Data -- Washington, DC
+## **Business System Analyst**, NTT Data -- Plano, TX
 
 May 2024 – present
 
@@ -39,7 +39,7 @@ May 2024 – present
 
 
 
-## **IT Business Analyst**, Wells Fargo
+## **IT Business Analyst**, Wells Fargo -- Irving, TX
 
 Sept 2021 – May 2024
 
@@ -82,12 +82,12 @@ Jan 2020 – Sept 2021
 
 
 # Technical Skills
-- **Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, GAP analysis, Peer Reviews.
+- **Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
 
 - **Tools:** Atlassian toolsets JIRA, Confluence.
 
 - **Cloud:** Cloud features and AWS platform.
 
-- **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliances.
+- **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance.
 
-- **Certifications:** AWS Cloud-Practitioner, CompTIA Security+.
+- **[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J).
