@@ -10,14 +10,22 @@
 Detail-oriented Business System Analyst with extensive experience across Agile, Hybrid, and Waterfall SDLC environments. Proven expertise in requirements elicitation, system analysis, cybersecurity compliance, QA, and change management. Skilled in translating complex business needs into clear functional and technical specifications, user stories, and process models to ensure successful delivery of scalable solutions.
 
 # Education
-## **Texas A&M University**, Bachelor's of Science in College of Engineering - Electronic Systems Engineering Technology- Minor in Cybersecurity
+## **Texas A&M University***College Station, TX*
+
+*Bachelor's of Science* *in* *the College of Engineering - Electronic Systems Engineering Technology*
+
+- Minor in Cybersecurity
 
 
 
 # Experience
-## **Business System Analyst**, NTT Data -- Plano, TX
+## **Business System Analyst**
 
-May 2024 – present
+*Plano, TX*
+
+*May 2024 – present*
+
+*NTT Data*
 
 - Partnered with stakeholders to elicit, analyze, and document functional and technical requirements, ensuring alignment with business objectives.
 
@@ -31,9 +39,13 @@ May 2024 – present
 
 
 
-## **IT Business Analyst**, Wells Fargo -- Irving, TX
+## **IT Business Analyst**
 
-Sept 2021 – May 2024
+*Irving, TX*
+
+*Sept 2021 – May 2024*
+
+*Wells Fargo*
 
 - Facilitated JAD sessions to capture high-level requirements and resolve outstanding issues throughout the SDLC.
 
@@ -50,9 +62,9 @@ Sept 2021 – May 2024
 # Technical Skills
 - **Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
 
-- **Tools:** Atlassian toolsets JIRA, Confluence.
+- **Tools:** Atlassian toolsets (JIRA, Confluence), Emacs
 
-- **Cloud:** Cloud features and AWS platform.
+- **Cloud:** Azure and AWS platforms.
 
 - **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance.
 

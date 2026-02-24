@@ -12,7 +12,7 @@
   page-bottom-margin: 0.7in,
   page-left-margin: 0.7in,
   page-right-margin: 0.7in,
-  page-show-footer: false,
+  page-show-footer: true,
   page-show-top-note: true,
   colors-body: rgb(0, 0, 0),
   colors-name: rgb(0, 0, 0),
@@ -25,21 +25,21 @@
   typography-line-spacing: 0.6em,
   typography-alignment: "justified",
   typography-date-and-location-column-alignment: right,
-  typography-font-family-body: "XCharter",
-  typography-font-family-name: "XCharter",
-  typography-font-family-headline: "XCharter",
-  typography-font-family-connections: "XCharter",
-  typography-font-family-section-titles: "XCharter",
+  typography-font-family-body: "New Computer Modern",
+  typography-font-family-name: "New Computer Modern",
+  typography-font-family-headline: "New Computer Modern",
+  typography-font-family-connections: "New Computer Modern",
+  typography-font-family-section-titles: "New Computer Modern",
   typography-font-size-body: 10pt,
-  typography-font-size-name: 25pt,
+  typography-font-size-name: 30pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 10pt,
-  typography-font-size-section-titles: 1.2em,
+  typography-font-size-section-titles: 1.4em,
   typography-small-caps-name: false,
   typography-small-caps-headline: false,
   typography-small-caps-connections: false,
   typography-small-caps-section-titles: false,
-  typography-bold-name: false,
+  typography-bold-name: true,
   typography-bold-headline: false,
   typography-bold-connections: false,
   typography-bold-section-titles: true,
@@ -53,28 +53,28 @@
   header-connections-hyperlink: true,
   header-connections-show-icons: false,
   header-connections-display-urls-instead-of-usernames: true,
-  header-connections-separator: "|",
+  header-connections-separator: "•",
   header-connections-space-between-connections: 0.5cm,
   section-titles-type: "with_full_line",
   section-titles-line-thickness: 0.5pt,
   section-titles-space-above: 0.5cm,
   section-titles-space-below: 0.3cm,
   sections-allow-page-break: true,
-  sections-space-between-text-based-entries: 0.15cm,
-  sections-space-between-regular-entries: 0.42cm,
+  sections-space-between-text-based-entries: 0.3em,
+  sections-space-between-regular-entries: 1.2em,
   entries-date-and-location-width: 4.15cm,
-  entries-side-space: 0cm,
+  entries-side-space: 0.2cm,
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
   entries-summary-space-left: 0cm,
-  entries-summary-space-above: 0.08cm,
-  entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
-  entries-highlights-nested-bullet:  text(13pt, [•], baseline: -0.6pt) ,
-  entries-highlights-space-left: 0cm,
-  entries-highlights-space-above: 0.08cm,
-  entries-highlights-space-between-items: 0.08cm,
-  entries-highlights-space-between-bullet-and-text: 0.3em,
+  entries-summary-space-above: 0cm,
+  entries-highlights-bullet:  "◦" ,
+  entries-highlights-nested-bullet:  "◦" ,
+  entries-highlights-space-left: 0.15cm,
+  entries-highlights-space-above: 0cm,
+  entries-highlights-space-between-items: 0cm,
+  entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
     month: 2,
@@ -99,14 +99,18 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 == Education
 
-  #education-entry(
+#education-entry(
   [
-    #strong[Texas A&M University], Bachelor's of Science in College of Engineering - Electronic Systems Engineering Technology
+    #strong[Texas A&M University]
 
   ],
   [
+    #emph[College Station, TX]
+
   ],
   main-column-second-row: [
+    #emph[Bachelor's of Science] #emph[in] #emph[the College of Engineering - Electronic Systems Engineering Technology]
+
     - Minor in Cybersecurity
 
   ],
@@ -116,11 +120,15 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 #regular-entry(
   [
-    #strong[Business System Analyst], NTT Data -- Plano, TX
+    #strong[Business System Analyst]
+
+    #emph[NTT Data]
 
   ],
   [
-    May 2024 – present
+    #emph[Plano, TX]
+
+    #emph[May 2024 – present]
 
   ],
   main-column-second-row: [
@@ -139,11 +147,15 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 #regular-entry(
   [
-    #strong[IT Business Analyst], Wells Fargo -- Irving, TX
+    #strong[IT Business Analyst]
+
+    #emph[Wells Fargo]
 
   ],
   [
-    Sept 2021 – May 2024
+    #emph[Irving, TX]
+
+    #emph[Sept 2021 – May 2024]
 
   ],
   main-column-second-row: [
@@ -164,9 +176,9 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 - #strong[Methodologies:] Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
 
-- #strong[Tools:] Atlassian toolsets JIRA, Confluence.
+- #strong[Tools:] Atlassian toolsets (JIRA, Confluence), Emacs
 
-- #strong[Cloud:] Cloud features and AWS platform.
+- #strong[Cloud:] Azure and AWS platforms.
 
 - #strong[Compliance:] HIPAA, GDP, CMMI, Cyber Security Compliance.
 

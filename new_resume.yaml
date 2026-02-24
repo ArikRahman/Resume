@@ -5,7 +5,7 @@
 
 # The built-in design.theme values are: classic (default), engineeringclassic, engineeringresumes, moderncv, and sb2nov.
 design:
-  theme: engineeringresumes
+  theme: sb2nov
 
 cv:
   name: Arik Rahman
@@ -24,8 +24,10 @@ cv:
 
     Education:
       - institution: Texas A&M University
-        area: College of Engineering - Electronic Systems Engineering Technology
+        location: "College Station, TX"
+        area: the College of Engineering - Electronic Systems Engineering Technology
         degree: Bachelor's of Science
+
         # start_date: 2021-08
         # end_date: 2025-12
         highlights:
@@ -58,7 +60,7 @@ cv:
 
     Technical Skills:
       - bullet: "**Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews."
-      - bullet: "**Tools:** Atlassian toolsets JIRA, Confluence."
-      - bullet: "**Cloud:** Cloud features and AWS platform."
+      - bullet: "**Tools:** Atlassian toolsets (JIRA, Confluence), Emacs"
+      - bullet: "**Cloud:** Azure and AWS platforms."
       - bullet: "**Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance."
       - bullet: "**[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)."
