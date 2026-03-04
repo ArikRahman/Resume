@@ -22,7 +22,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 
 # Experience
-## **Business System Analyst**
+## **Business Systems Analyst**
 
 *Houston, TX*
 

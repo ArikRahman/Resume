@@ -51,8 +51,8 @@
   header-space-below-headline: 0.7cm,
   header-space-below-connections: 0.7cm,
   header-connections-hyperlink: true,
-  header-connections-show-icons: false,
-  header-connections-display-urls-instead-of-usernames: true,
+  header-connections-show-icons: true,
+  header-connections-display-urls-instead-of-usernames: false,
   header-connections-separator: "•",
   header-connections-space-between-connections: 0.5cm,
   section-titles-type: "with_full_line",
@@ -86,11 +86,11 @@
 = Arik Rahman
 
 #connections(
-  [#link("tel:+1-832-709-3931", icon: false, if-underline: false, if-color: false)[(832) 709-3931]],
-  [#link("mailto:mail@arik.zip", icon: false, if-underline: false, if-color: false)[mail\@arik.zip]],
-  [#link("https://arik.zip/", icon: false, if-underline: false, if-color: false)[arik.zip]],
-  [#link("https://linkedin.com/in/arikrahman", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/arikrahman]],
-  [#link("https://github.com/arikrahman", icon: false, if-underline: false, if-color: false)[github.com\/arikrahman]],
+  [#link("tel:+1-832-709-3931", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[(832) 709-3931]]],
+  [#link("mailto:mail@arik.zip", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[mail\@arik.zip]]],
+  [#link("https://arik.zip/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[arik.zip]]],
+  [#link("https://linkedin.com/in/arikrahman", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[arikrahman]]],
+  [#link("https://github.com/arikrahman", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[arikrahman]]],
 )
 
 
@@ -123,7 +123,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 #regular-entry(
   [
-    #strong[Business System Analyst]
+    #strong[Business Systems Analyst]
 
     #emph[Booz Allen Hamilton]
 

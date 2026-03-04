@@ -6,6 +6,10 @@
 # The built-in design.theme values are: classic (default), engineeringclassic, engineeringresumes, moderncv, and sb2nov.
 design:
   theme: sb2nov
+  header:
+    connections:
+      display_urls_instead_of_usernames: false
+      show_icons: true
 
 cv:
   name: Arik Rahman
@@ -37,7 +41,7 @@ cv:
 
     Experience:
       - company: "Booz Allen Hamilton"
-        position: "Business System Analyst"
+        position: "Business Systems Analyst"
         location: "Houston, TX"
         start_date: 2024-05
         end_date: present
