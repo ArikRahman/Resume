@@ -1,7 +1,8 @@
 # Arik Rahman's CV
 
 - Phone: +1 832 709 3931
-- Email: [arikrahman300@gmail.com](mailto:arikrahman300@gmail.com)
+- Email: [mail@arik.zip](mailto:mail@arik.zip)
+- Website: [arik.zip](https://arik.zip/)
 - LinkedIn: [arikrahman](https://linkedin.com/in/arikrahman)
 - GitHub: [arikrahman](https://github.com/arikrahman)
 
@@ -14,7 +15,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 *Bachelor's of Science* *in* *the College of Engineering*
 
-- Area of Emphasis in Electronic Systems Engineering Technology
+- Curriculum on Electronic Systems (ESET)
 
 - Minor in Cybersecurity
 
@@ -23,11 +24,11 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 # Experience
 ## **Business System Analyst**
 
-*Plano, TX*
+*Houston, TX*
 
 *May 2024 – present*
 
-*NTT Data*
+*Booz Allen Hamilton*
 
 - Partnered with stakeholders to elicit, analyze, and document functional and technical requirements, ensuring alignment with business objectives.
 
@@ -45,7 +46,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 *Irving, TX*
 
-*Sept 2021 – May 2024*
+*Jan 2020 – May 2024*
 
 *Wells Fargo*
 
@@ -66,7 +67,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 - **Tools:** Atlassian toolsets (JIRA, Confluence), Emacs
 
-- **Cloud:** Azure and AWS platforms.
+- **Cloud:** Azure, Oracle and AWS platforms.
 
 - **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance.
 

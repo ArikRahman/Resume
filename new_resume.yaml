@@ -10,7 +10,8 @@ design:
 cv:
   name: Arik Rahman
   phone: "+1 832-709-3931"
-  email: arikrahman300@gmail.com
+  email: mail@arik.zip
+  website: https://arik.zip
 
   social_networks:
     - network: LinkedIn
@@ -31,13 +32,13 @@ cv:
         # start_date: 2021-08
         # end_date: 2025-12
         highlights:
-          - "Area of Emphasis in Electronic Systems Engineering Technology"
+          - "Curriculum on Electronic Systems (ESET)"
           - "Minor in Cybersecurity"
 
     Experience:
-      - company: "NTT Data"
+      - company: "Booz Allen Hamilton"
         position: "Business System Analyst"
-        location: "Plano, TX"
+        location: "Houston, TX"
         start_date: 2024-05
         end_date: present
         highlights:
@@ -50,7 +51,7 @@ cv:
       - company: "Wells Fargo"
         position: "IT Business Analyst"
         location: "Irving, TX"
-        start_date: 2021-09
+        start_date: 2020-01
         end_date: 2024-05
         highlights:
           - "Facilitated JAD sessions to capture high-level requirements and resolve outstanding issues throughout the SDLC."
@@ -62,6 +63,6 @@ cv:
     Technical Skills:
       - bullet: "**Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews."
       - bullet: "**Tools:** Atlassian toolsets (JIRA, Confluence), Emacs"
-      - bullet: "**Cloud:** Azure and AWS platforms."
+      - bullet: "**Cloud:** Azure, Oracle and AWS platforms."
       - bullet: "**Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance."
       - bullet: "**[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)."

@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Arik Rahman",
   footer: context { [#emph[Arik Rahman -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Feb 2026] ],
+  top-note: [ #emph[Last updated in Mar 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 2,
-    day: 24,
+    month: 3,
+    day: 4,
   ),
 )
 
@@ -87,7 +87,8 @@
 
 #connections(
   [#link("tel:+1-832-709-3931", icon: false, if-underline: false, if-color: false)[(832) 709-3931]],
-  [#link("mailto:arikrahman300@gmail.com", icon: false, if-underline: false, if-color: false)[arikrahman300\@gmail.com]],
+  [#link("mailto:mail@arik.zip", icon: false, if-underline: false, if-color: false)[mail\@arik.zip]],
+  [#link("https://arik.zip/", icon: false, if-underline: false, if-color: false)[arik.zip]],
   [#link("https://linkedin.com/in/arikrahman", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/arikrahman]],
   [#link("https://github.com/arikrahman", icon: false, if-underline: false, if-color: false)[github.com\/arikrahman]],
 )
@@ -111,7 +112,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
   main-column-second-row: [
     #emph[Bachelor's of Science] #emph[in] #emph[the College of Engineering]
 
-    - Area of Emphasis in Electronic Systems Engineering Technology
+    - Curriculum on Electronic Systems (ESET)
 
     - Minor in Cybersecurity
 
@@ -124,11 +125,11 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
   [
     #strong[Business System Analyst]
 
-    #emph[NTT Data]
+    #emph[Booz Allen Hamilton]
 
   ],
   [
-    #emph[Plano, TX]
+    #emph[Houston, TX]
 
     #emph[May 2024 – present]
 
@@ -157,7 +158,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
   [
     #emph[Irving, TX]
 
-    #emph[Sept 2021 – May 2024]
+    #emph[Jan 2020 – May 2024]
 
   ],
   main-column-second-row: [
@@ -180,7 +181,7 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 - #strong[Tools:] Atlassian toolsets (JIRA, Confluence), Emacs
 
-- #strong[Cloud:] Azure and AWS platforms.
+- #strong[Cloud:] Azure, Oracle and AWS platforms.
 
 - #strong[Compliance:] HIPAA, GDP, CMMI, Cyber Security Compliance.
 
