@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.2.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Arik Rahman",
+  title: "Arik Rahman - CV",
   footer: context { [#emph[Arik Rahman -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Last updated in Mar 2026] ],
   locale-catalog-language: "en",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0cm,
   entries-highlights-bullet:  "◦" ,
@@ -78,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 4,
+    day: 9,
   ),
 )
 
@@ -177,12 +180,12 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 == Technical Skills
 
-- #strong[Methodologies:] Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
+- #strong[Methodologies:] Agile, SCR, Change Management, Gap Analysis, Peer Reviews, Functional Programming, Version Control (VCS) via Git, Forgejo & Jujutsu
 
-- #strong[Tools:] Atlassian toolsets (JIRA, Confluence), Emacs
-
-- #strong[Cloud:] Azure, Oracle and AWS platforms.
+- #strong[Cloud:] Azure, Oracle, #link("https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url")[AWS], and Agentic AI Ensembling Platforms (Claude Code & ComfyUI),
 
 - #strong[Compliance:] HIPAA, GDP, CMMI, Cyber Security Compliance.
+
+- #strong[Tools:] Atlassian toolsets (JIRA & Confluence), Lisp, Linux (NixOS)
 
 - #strong[#link("https://www.credly.com/users/arik-rahman/badges#credly")[Certifications]:] Lean Six Sigma Yellow Belt, #link("https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url")[AWS Cloud-Practitioner], #link("https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J")[CompTIA Security+ SY0-701].

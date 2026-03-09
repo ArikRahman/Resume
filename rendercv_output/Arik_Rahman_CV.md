@@ -63,12 +63,12 @@ Detail-oriented Business System Analyst with extensive experience across Agile, 
 
 
 # Technical Skills
-- **Methodologies:** Joint Application Requirement (JAR), Joint Application Development (JAD), Agile, SCR, Change Management, Gap analysis, Peer Reviews.
+- **Methodologies:** Agile, SCR, Change Management, Gap Analysis, Peer Reviews, Functional Programming, Version Control (VCS) via Git, Forgejo & Jujutsu
 
-- **Tools:** Atlassian toolsets (JIRA, Confluence), Emacs
-
-- **Cloud:** Azure, Oracle and AWS platforms.
+- **Cloud:** Azure, Oracle, [AWS](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), and Agentic AI Ensembling Platforms (Claude Code & ComfyUI),
 
 - **Compliance:** HIPAA, GDP, CMMI, Cyber Security Compliance.
+
+- **Tools:** Atlassian toolsets (JIRA & Confluence), Lisp, Linux (NixOS)
 
 - **[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J).

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is Arik Rahman's resume repository, managed with [RenderCV](https://github.com/rendercv/rendercv) v2.6.
+This is Arik Rahman's resume repository, managed with [RenderCV](https://github.com/rendercv/rendercv) v2.7.
 
 The primary resume file is `new_resume.yaml`. `old_resume.yaml` is kept for reference but should not be edited.
 
@@ -17,8 +17,29 @@ Output is written to `rendercv_output/`.
 ## Environment
 
 - OS: NixOS
-- RenderCV is installed via home-manager, available on PATH as `rendercv`
-- Do NOT attempt to `pip install`, `pip show`, or locate rendercv via Python imports — it is managed by Nix
+- Toolchain: [uv](https://docs.astral.sh/uv/)
+- RenderCV is installed as a uv tool and available on PATH as `rendercv`
+- Python 3.12 is required (RenderCV 2.6+ requires Python>=3.12)
+
+### Installation
+
+```Resume/Agents.md#L1-1
+uv tool install "rendercv[full]" --python 3.12
+```
+
+### PATH
+
+`rendercv` is installed to `~/.local/bin`. If it is not on your PATH, add it:
+
+```Resume/Agents.md#L1-1
+export PATH="/home/arik/.local/bin:$PATH"
+```
+
+- Do NOT attempt to `pip install` rendercv directly — use `uv tool install` as shown above.
+### Running and execution
+Run with   `uv tool run rendercv render new_resume.yaml`
+Run and watch with `uv tool run rendercv render new_resume.yaml --watch`
+
 
 ## Theme
 
