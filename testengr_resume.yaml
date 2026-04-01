@@ -37,6 +37,7 @@ cv:
         # end_date: 2025-12
         highlights:
           - "Curriculum on Electronic Systems (ESET)"
+          - Electronic testing with Teradyne Eagle Tester ETS-364 & ETS-800
           - "Minor in Cybersecurity"
 
     Experience:
@@ -48,10 +49,9 @@ cv:
         highlights:
           - "Partnered with stakeholders to elicit, analyze, and document functional and technical requirements, ensuring alignment with business objectives."
           - "Facilitated requirement workshops, backlog refinement, sprint planning, and review sessions, validating functionality against acceptance criteria within strict regulatory frameworks and governance models"
-          - "Decomposed complex epics into testable user stories with clear acceptance criteria, maintaining end-to-end traceability through RTM."
-          - "Developed comprehensive documentation including BRDs, Functional Specifications, Use Cases, and Business Process Flow diagrams."
+          - "Wrote complex SQL queries against warehouse data to analyze feature usage, data quality issues, and process bottlenecks, driving recommendations that improved turnaround time"
           - "Managed Jira backlog, tracked sprint progress, triaged defects, and collaborated with QA teams to support UAT and regression testing."
-          - "Translate complex business need to shared goals via common glossary, aligning team-wide verbiage for domain driven design."
+          - "Built KPI dashboards in Power BI to track product performance, operational health, and adoption trends, cutting manual reporting time"
 
       - company: "Wells Fargo"
         position: "IT Business Analyst"
@@ -60,14 +60,14 @@ cv:
         end_date: 2024-05
         highlights:
           - "Facilitated JAD sessions to capture high-level requirements and resolve outstanding issues throughout the SDLC."
-          - "Used a structured problem-solving framework to define current-state issues, diagnose root causes, narrow scope to high-impact priorities, set strategic direction, and execute implementation plans"
+          - "Supported backlog grooming, sprint planning, and cross-functional refinement sessions, helping maintain a well-defined backlog and improving on-time delivery"
           - "Developed business process models, workflow diagrams, and Technical Requirements Documents aligned with business objectives to meet business KPI"
-          - "Logged and tracked defects, obtained sign-offs, and ensured artifacts complied with corporate SDLC standards and CMMI guidelines."
+          - "Logged and tracked defects, obtained sign-offs, and ensured artifacts complied with corporate BABOK standards and CMMI guidelines."
           - "Performed SQL queries for backend data validation and collaborated with QA teams to create test plans for functional, integration, and UAT testing."
 
     Technical Skills:
       - bullet: "**Methodologies:** Agile, SCR, Change Management, Gap Analysis, Peer Reviews, Functional Programming, Version Control (VCS) via Git, Forgejo, and Jujutsu"
-      - bullet: "**Cloud:** Azure, Oracle, [AWS](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), Databricks"
+      - bullet: "**Cloud:** Azure, Oracle, Snowflake, [AWS](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), Databricks"
       - bullet: "**Compliance:** HIPAA, GDP, CMMI, [Cyber Security Compliance](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)."
       - bullet: "**Tools:** Atlassian toolsets (JIRA & Confluence), Lisp, Linux (NixOS, Flakes), Claude Code, Postman, Swagger"
       - bullet: "**[Certifications](https://www.credly.com/users/arik-rahman/badges#credly):** Lean Six Sigma Yellow Belt, [AWS Cloud-Practitioner](https://www.credly.com/badges/c6d69582-a842-45a7-b9cc-8ccbc053dd61/public_url), [CompTIA Security+ SY0-701](https://cp.certmetrics.com/comptia/en/public/verify/credential/29P4SYG50EREK22J)."
