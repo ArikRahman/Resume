@@ -75,3 +75,7 @@ snap message:
 # Useful if you started a new change by mistake before you were ready
 abandon:
     jj abandon @
+
+# Kami
+kamipdf:
+    weasyprint arik-rahman-resume.html arik-rahman-resume.pdf -u kami/assets/templates
