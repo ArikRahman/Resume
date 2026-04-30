@@ -78,4 +78,4 @@ abandon:
 
 # Kami
 kamipdf:
-    weasyprint arik-rahman-resume.html arik-rahman-resume.pdf -u kami/assets/templates
+    weasyprint arik-rahman-resume-kami.html arik-rahman-resume.pdf -u kami/assets/templates
